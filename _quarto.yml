@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mohammad Nasirpour"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: research.qmd
+        text: Research & Projects
+    right:
+      - icon: envelope
+        href: mailto:m.h.nasirpour@gmail.com
+      - icon: github
+        href: https://github.com/Mhn1124
+      - icon: linkedin
+        href: YOUR_LINKEDIN_URL
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    page-layout: full
+

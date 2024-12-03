@@ -1,0 +1,16 @@
+---
+title: "Research Interests & Projects"
+---
+
+## Research Interests
+- Cancer Biology and Bioinformatics
+- Gene Expression Profiles
+- Protein-Protein Interaction Networks
+- Next Generation Sequencing
+
+## Current Projects
+Spatial Transcriptomics RNA Seq Analysis in Breast Cancer
+
+## Past Projects
+The Gene Expression Profiles in Breast Cancer 
+---
